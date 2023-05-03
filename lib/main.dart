@@ -13,6 +13,7 @@ import 'openion_on_Stress_Eating.dart';
 import 'openion_on_diet_plan.dart';
 import 'openion_on_exercise.dart';
 import 'openion_on_gym.dart';
+import 'openion_on_tv.dart';
 
 void main() {
   runApp(const MyApp());
@@ -29,7 +30,7 @@ class MyApp extends StatelessWidget {
       theme: ThemeData(
         primarySwatch: Colors.blue,
       ),
-      home: compared_to_others(),
+      home: openion_on_tv(),
     );
   }
 }
