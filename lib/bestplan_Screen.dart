@@ -34,7 +34,7 @@ class _best_PlanScreenState extends State<best_PlanScreen> {
                 height: height * 0.01,
               ),
               FittedBox(
-                child: Text('We  Create Best Plan for You',
+                child: Text('We Create Best Plan for You',
                     style: TextStyle(
                       fontWeight: FontWeight.bold,
                       fontSize: height * 0.025,

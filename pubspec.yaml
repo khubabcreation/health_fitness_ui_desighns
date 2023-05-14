@@ -36,6 +36,9 @@ dependencies:
   # Use with the CupertinoIcons class for iOS style icons.
   cupertino_icons: ^1.0.2
   fl_chart:
+  flutter_timer_countdown:
+  animated_flip_counter: ^0.2.5
+  lottie: ^2.3.2
 
 dev_dependencies:
   flutter_test:
@@ -64,6 +67,7 @@ flutter:
     - assets/one.png
     - assets/glass.png
     - assets/happy_icon.png
+    - assets/cal.gif
   #   - images/a_dot_ham.jpeg
 
   # An image asset can refer to one or more resolution-specific "variants", see
